@@ -1,35 +1,11 @@
 
-header{
-  background-color: rgb(247, 198, 224);
-  color:black;
-  text-align: center;
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 16px;
-}
-main {
- background-color: rgba(187, 187, 241, 0.979);
- color: rgb(1, 27, 27);
- max-width: 800px;
- margin: 0 auto;
- padding: 16px;
-}
-article{
-display: flex;
-}
-img {
-width: 80px;
-height: 80px;
-}
-.artigo-autor {
-font-weight: bold;
-}
+
 :root {
     --cor-primaria: #183C63;
     --cor-secundaria: #3782d2;
     --cor-fundo: #ffffff;
-    --cor-texto: #f3eef7;
-    --cor-contraste: #f3eef7;
+    --cor-texto: #1c1a1f;
+    --cor-contraste: #060607;
     --cor-botao: #f9f9f9;
 
     --fonte-texto: 'Segoe UI', sans-serif;
@@ -41,7 +17,7 @@ font-weight: bold;
     --cor-primaria: #A6CEFE;
     --cor-secundaria: #98caff;
     --cor-fundo: #0f172a;
-    --cor-texto: #ffffff;
+    --cor-texto: #0f0d0d;
     --cor-contraste: #1e293b;
     --cor-bota0: #151428;
 }
