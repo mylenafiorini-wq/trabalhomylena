@@ -11,7 +11,11 @@ botoes.forEach(function (botao){
 if(curtiu==false){
     texto.textContent++;
     curtiu=true;
-    }else{
+    } else {
     texto.textContent--;
     curtiu=false;
     }
+}
+});
+
+const btnTemaEscuro = document.querySelector(".btn-tema-escuro");
